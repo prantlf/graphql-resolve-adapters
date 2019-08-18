@@ -3,6 +3,8 @@
 [![NPM version](https://badge.fury.io/js/graphql-resolve-adapters.png)](http://badge.fury.io/js/graphql-resolve-adapters)
 [![Build Status](https://travis-ci.org/prantlf/graphql-resolve-adapters.png)](https://travis-ci.org/prantlf/graphql-resolve-adapters)
 [![Coverage Status](https://coveralls.io/repos/github/prantlf/graphql-resolve-adapters/badge.svg?branch=master)](https://coveralls.io/github/prantlf/graphql-resolve-adapters?branch=master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/1e5c6e1dd2aa0533d8c6/maintainability)](https://codeclimate.com/github/prantlf/graphql-resolve-adapters/maintainability)
+[![codebeat badge](https://codebeat.co/badges/06b7a3d1-3a39-4204-b829-e682169f2e98)](https://codebeat.co/projects/github-com-prantlf-graphql-resolve-adapters-master)
 [![devDependency Status](https://david-dm.org/prantlf/graphql-resolve-adapters/dev-status.svg)](https://david-dm.org/prantlf/graphql-resolve-adapters#info=devDependencies)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
